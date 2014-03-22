@@ -65,9 +65,7 @@ Bicho backend to integrate with an open source bugtracker; Trac seems a
 likely candidate. I plan on diving into the Bicho source code (including
 existing backends) and the Trac API today to start looking at what to do.
 Any tips, warnings, or requests?
-```
 
-```
 I'm XXX and I'm really interested in contributing to CryptoCat. I noticed that "adding tests" was mentioned on the issue tracker, so I'd like to start by working on testing. I have a few questions:
 1. I don't see very many tests in the test/ folder. Is there another place where I ought to be looking?
 2. Can you confirm that you're using Jasmine for testing? (It looks like you may be, but this isn't documented anywhere so I'm not sure if my guess is right.) Or are you using another test framework?
