@@ -61,6 +61,7 @@
  * Is there a specific ask I could help with?
  * Is there a way I can publicly respond to this person? (not bottlenecking)
 
+##### Sample Email #1
 ```
 Hi there! As a learning project, I'm interested in creating
 or improving a Bicho backend to integrate with an open source
@@ -68,7 +69,10 @@ bugtracker; Trac seems a likely candidate. I plan on diving
 into the Bicho source code (including existing backends)
 and the Trac API today to start looking at what to do. 
 Any tips, warnings, or requests?
+```
 
+##### Sample Email #2
+```
 I'm XXX and I'm really interested in contributing to
 CryptoCat. I noticed  that "adding tests" was mentioned
 on the issue tracker, so I'd like to start by working on
