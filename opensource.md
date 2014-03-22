@@ -1,41 +1,53 @@
-### who am i?
-* wanted to get involved in 
-  		
+#### Who am I?
+* Wanted to get involved in open source six months ago, but didn't think I could make a contribution
+* In October: started working with GNOME OPW and Wikimedia.
 
-# what is gnome OPW
+#### What is [OPW](https://wiki.gnome.org/OutreachProgramForWomen) and [GSOC](http://www.mediawiki.org/wiki/Google_Summer_of_Code_2014)?
+* Full-time internships with spe
 
-# what is open source
-	free software must meet the "four freedoms": the freedom to run a piece of software for any purpose; the freedom to understand and change it; the freedom to share copies of the software; and the freedom to share changed or modified copies.
-	"Open source" was coined in the late 90s to appeal to businesses and is now the more popular term, but they mean pretty much the same thing
+#### What is Free and Open Source Software?
+* Free software meets the four freedoms:
+** the freedom to run a piece of software for any purpose
+** the freedom to understand and change it
+** the freedom to share copies of the software
+** and the freedom to share changed or modified copies.
+* "Open source" means pretty much the same thing (although diehard "free" software folks will disagree)
 
-# why get involved in open source projects
-	## you're working on something that you already like or use and making it better!
-	## you're doing a public service
-	## great learning experience if you are a new programmer
-	## unlike proprietary software, you can tell everyone what you did
+#### Why get involved in open source projects?
+* You're working on something that you already like or use and making it better!
+* You're doing a public service
+* Great way to get real-life, non-classroom programming experience
+* Unlike proprietary software, you can tell everyone what you did
 
-# how to find open source projects
-	## what kind of OSS do you use that you want to improve?
-	## what's OSS and we don't know it's OSS? 
-		### firefox, emacs/vim, PLs, linux, web frameworks, apache
-		### nginx
-	## if you really have no idea: google, github, openhatch, ohloh
-	## check their bugtracker, see what languages they use
+#### How to find open source projects
+* What kind of OSS do you use that you want to improve?
+** Examples: firefox, emacs/vim, PLs, linux, web frameworks, apache
+* If not, try Google, Github, OpenHatch, OhLoh
+** Note that some projects may be abandoned!
+** Look at their bugtracker, see what languages they use.
 
-# how do people communicate in open source projects?
-	## wiki: like a marsh. requires the least effort, but often outdated or convoluted
-	## bug / issue tracker
-	## mailing list: like a river
-		example: https://lists.ubuntu.com/
-	## irc: like a ...waterfall? 
-		### you don't have to instantly respond
-		### i'd often post a question on irc and be inundated with feedback
-	## face-to-face meetings. conferences etc!
+#### What you can contribute -- not just code!
+* UX design, such as logos
+* Translation and localization!
+* Testing and documentation: What good is a project if no one knows how to use it? 
 
-# how do you start getting involved with an open source project?
-	## you can hop on irc and introduce yourself
-		### be extremely direct, get to the point right away
-	## you can send a very targeted email
+#### How do people communicate in open source projects?
+* Wiki: Like a marsh. Requires the least effort, but often outdated or convoluted.
+** Example: [Parsoid](www.mediawiki.org/wiki/Parsoid)
+* bug / issue tracker
+** Example: [GNOME](https://bugzilla.gnome.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&product=Gnumeric&query_format=advanced&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&query_based_on=)
+** Example: [OpenHatch](http://openhatch.org/bugs/)
+* mailing list: river
+* Example: [Ubuntu] (https://lists.ubuntu.com/)
+* IRC: Like a waterfall!
+** Hardest to adapt to; kind of like being at a party where you don't know anyone
+** Still the most effective way to get an answer to your question.
+* Face-to-face meetings and conferences!
+
+#### How do you start getting involved with an open source project?
+* Hop on irc and introduce yourself
+** be extremely direct, get to the point right away
+* Send a very targeted email
 	## look at the issues page on github or the bug tracker. 
 		### even updating the documentation is valuable...or testing...or finding bugs and reporting them
 			#### type "AAAAAAAAAAAAAAAAAAAAA" again and again
