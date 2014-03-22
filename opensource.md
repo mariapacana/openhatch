@@ -97,6 +97,18 @@ it greatly if someone could help me get started on my
 first patch/test.
 ```
 
+#### Tips for Newbies
+* Don't be afraid of IRC.
+* Don't try to understand everything at once.
+ * Getting the 'big picture' can take 3-4 months!
+ * Concentrate on making a small contribution right away.
+* Find a mentor, whether it's formal or informal.
+ * They help you understand the codebase
+ * Will defend your perspective to the other developers
+* Try to understand the team's culture / who the key people are.
+ * Whose approval do you need before the patch is merged?
+
+
 ### Workshop
 
 #### Project Brainstorming
