@@ -10,7 +10,7 @@
  * the freedom to run a piece of software for any purpose
  * the freedom to understand and change it
  * the freedom to share copies of the software
-** and the freedom to share changed or modified copies.
+ * and the freedom to share changed or modified copies.
 * "Open source" means pretty much the same thing (although diehard "free" software folks will disagree)
 
 #### Why get involved in open source projects?
