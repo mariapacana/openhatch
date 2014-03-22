@@ -7,9 +7,9 @@
 
 #### What is Free and Open Source Software?
 * Free software meets the four freedoms:
-** the freedom to run a piece of software for any purpose
-** the freedom to understand and change it
-** the freedom to share copies of the software
+ * the freedom to run a piece of software for any purpose
+ * the freedom to understand and change it
+ * the freedom to share copies of the software
 ** and the freedom to share changed or modified copies.
 * "Open source" means pretty much the same thing (although diehard "free" software folks will disagree)
 
@@ -21,10 +21,10 @@
 
 #### How to find open source projects
 * What kind of OSS do you use that you want to improve?
-** Examples: firefox, emacs/vim, PLs, linux, web frameworks, apache
+* Examples: firefox, emacs/vim, PLs, linux, web frameworks, apache
 * If not, try Google, Github, OpenHatch, OhLoh
-** Note that some projects may be abandoned!
-** Look at their bugtracker, see what languages they use.
+ * Note that some projects may be abandoned!
+ * Look at their bugtracker, see what languages they use.
 
 #### What you can contribute -- not just code!
 * UX design, such as logos
@@ -33,20 +33,20 @@
 
 #### How do people communicate in open source projects?
 * Wiki: Like a marsh. Requires the least effort, but often outdated or convoluted.
-** Example: [Parsoid](www.mediawiki.org/wiki/Parsoid)
+ * Example: [Parsoid](www.mediawiki.org/wiki/Parsoid)
 * bug / issue tracker
-** Example: [GNOME](https://bugzilla.gnome.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&product=Gnumeric&query_format=advanced&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&query_based_on=)
-** Example: [OpenHatch](http://openhatch.org/bugs/)
+ * Example: [GNOME](https://bugzilla.gnome.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&product=Gnumeric&query_format=advanced&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&query_based_on=)
+ * Example: [OpenHatch](http://openhatch.org/bugs/)
 * mailing list: river
 * Example: [Ubuntu] (https://lists.ubuntu.com/)
 * IRC: Like a waterfall!
-** Hardest to adapt to; kind of like being at a party where you don't know anyone
-** Still the most effective way to get an answer to your question.
+ * Hardest to adapt to; kind of like being at a party where you don't know anyone
+ * Still the most effective way to get an answer to your question.
 * Face-to-face meetings and conferences!
 
 #### How do you start getting involved with an open source project?
 * Hop on irc and introduce yourself
-** be extremely direct, get to the point right away
+ * be extremely direct, get to the point right away
 * Send a very targeted email
 	## look at the issues page on github or the bug tracker. 
 		### even updating the documentation is valuable...or testing...or finding bugs and reporting them
