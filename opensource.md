@@ -3,7 +3,9 @@
 * In October: started working with GNOME OPW and Wikimedia.
 
 #### What is [OPW](https://wiki.gnome.org/OutreachProgramForWomen) and [GSOC](http://www.mediawiki.org/wiki/Google_Summer_of_Code_2014)?
-* Full-time internships with spe
+* Full-time, 4-month internships with different OSS organizations.
+* OPW is targeted at women, and GSOC for full-time students.
+* Before you apply, you must find a mentor and make a small contribution.
 
 #### What is Free and Open Source Software?
 * Free software meets the four freedoms:
@@ -42,23 +44,26 @@
 * IRC: Like a waterfall!
  * Hardest to adapt to; kind of like being at a party where you don't know anyone
  * Still the most effective way to get an answer to your question.
-* Face-to-face meetings and conferences!
+* Meetups and conferences!
+ * [SF Open Source Developer Meetup](http://www.meetup.com/San-Francisco-Open-Source-Developers/)
+ * OpenSourceBridge (Portland), Libre Planet (Boston)
 
 #### How do you start getting involved with an open source project?
 * Hop on irc and introduce yourself
  * be extremely direct, get to the point right away
 * Send a very targeted email
-	## look at the issues page on github or the bug tracker. 
-		### even updating the documentation is valuable...or testing...or finding bugs and reporting them
-			#### type "AAAAAAAAAAAAAAAAAAAAA" again and again
+ * Can this person independently navigate the resources my project has on the website? (base level initiative)
+ * Is this person trying to do something that would be helpful to me?
+ * Does the email have a concrete, testable goal/outcome in mind?
+ * Is there a specific ask I could help with?
+ * Is there a way I can publicly respond to this person? (not bottlenecking)
 
-# for the next 15 minutes
-	## everyone look for an OS project that you might make a contribution to
-	## with your group, share the project and why you might want to do that
+#### Workshop
 
-# for the next 15 minutes
-	## find a pretext to get the conversation started, and draft a question
-	## when you are done drafting your question, share it with the group
+## Project Brainstorming
+* Start researching projects you might contribute to!
+* With your group, share which project and why.
 
----- what if it's abandoned?
----- background affects what people can work on
+## Come up with a question.
+* Find a pretext to get the conversation started, and draft a question
+* When you are done drafting your question, share it with the group
