@@ -38,10 +38,15 @@
 #### How do people communicate in open source projects?
 * Wiki: Like a marsh. Requires the least effort, but often outdated or convoluted.
  * Example: [Parsoid](www.mediawiki.org/wiki/Parsoid)
-* bug / issue tracker
+* Bug / issue tracker
+ * "Closed": don't work on it because the issue has been fixed or dismissed.
+ * "New" or "unconfirmed": be wary, it means no one has yet reproduced the problem, and/or no maintainer has looked at it and decided the issue is worth addressing.
+ *"Accepted": the best! It means an issue has been accepted as needing fixing, but it hasn't been addressed yet.
+ * "In Progress": Also good. See if you can help, or perhaps said progress has stalled and you can pick it up.
  * Example: [GNOME](https://bugzilla.gnome.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&product=Gnumeric&query_format=advanced&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&query_based_on=)
  * Example: [OpenHatch](http://openhatch.org/bugs/)
-* mailing list: river
+* Mailing list: Like a river.
+ * 
  * Example: [Ubuntu] (https://lists.ubuntu.com/)
 * IRC: Like a waterfall!
  * Hardest to adapt to; kind of like being at a party where you don't know anyone
@@ -60,19 +65,16 @@
  * Is there a way I can publicly respond to this person? (not bottlenecking)
 
 ```
-Hi there! As a learning project, I'm interested in creating or improving a
-Bicho backend to integrate with an open source bugtracker; Trac seems a
-likely candidate. I plan on diving into the Bicho source code (including
-existing backends) and the Trac API today to start looking at what to do.
-Any tips, warnings, or requests?
-```
+Hi there! As a learning project, I'm interested in creating or improving a Bicho backend to integrate with an open source bugtracker; Trac seems a likely candidate. I plan on diving into the Bicho source code (including existing backends) and the Trac API today to start looking at what to do. Any tips, warnings, or requests?
 
-```
-I'm XXX and I'm really interested in contributing to CryptoCat. I noticed that "adding tests" was mentioned on the issue tracker, so I'd like to start by working on testing. I have a few questions:
+I'm XXX and I'm really interested in contributing to CryptoCat. I noticed  that "adding tests" was mentioned on the issue tracker, so I'd like to start by working on testing. I have a few questions:
 1. I don't see very many tests in the test/ folder. Is there another place where I ought to be looking?
 2. Can you confirm that you're using Jasmine for testing? (It looks like you may be, but this isn't documented anywhere so I'm not sure if my guess is right.) Or are you using another test framework?
 3. Are there certain parts of the codebase that particularly need test coverage?
-I've also filed <<BUG #XYZ>>, "CryptoCat icon isn't showing up on desktop notifications", which I would be happy to start working on if someone could get me started. I'm <<NICKNAME>> on IRC and will try to hang out there as much as I can. I'm new to open source contribution and would appreciate it greatly if someone could help me get started on my first patch/test.
+
+I've also filed <<BUG #XYZ>>, "CryptoCat icon isn't showing up on desktop notifications", which I would be happy to start working on if someone could get me started. I'm <<NICKNAME>> on IRC and will try to hang out there as much as I can. 
+
+I'm new to open source contribution and would appreciate it greatly if someone could help me get started on my first patch/test.
 ```
 
 ### Workshop
