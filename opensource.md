@@ -1,3 +1,5 @@
+### Getting Involved in Open Source
+
 #### Who am I?
 * Wanted to get involved in open source six months ago, but didn't think I could make a contribution
 * In October: started working with GNOME OPW and Wikimedia.
@@ -40,7 +42,7 @@
  * Example: [GNOME](https://bugzilla.gnome.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&product=Gnumeric&query_format=advanced&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&query_based_on=)
  * Example: [OpenHatch](http://openhatch.org/bugs/)
 * mailing list: river
-* Example: [Ubuntu] (https://lists.ubuntu.com/)
+ * Example: [Ubuntu] (https://lists.ubuntu.com/)
 * IRC: Like a waterfall!
  * Hardest to adapt to; kind of like being at a party where you don't know anyone
  * Still the most effective way to get an answer to your question.
@@ -49,21 +51,32 @@
  * OpenSourceBridge (Portland), Libre Planet (Boston)
 
 #### How do you start getting involved with an open source project?
-* Hop on irc and introduce yourself
- * be extremely direct, get to the point right away
-* Send a very targeted email
+* Come up with a "hook" that you can use on IRC or the mailing list. 
+* Should fulfill the following requirements:
  * Can this person independently navigate the resources my project has on the website? (base level initiative)
  * Is this person trying to do something that would be helpful to me?
  * Does the email have a concrete, testable goal/outcome in mind?
  * Is there a specific ask I could help with?
  * Is there a way I can publicly respond to this person? (not bottlenecking)
 
-#### Workshop
+``Hi there! As a learning project, I'm interested in creating or improving a
+Bicho backend to integrate with an open source bugtracker; Trac seems a
+likely candidate. I plan on diving into the Bicho source code (including
+existing backends) and the Trac API today to start looking at what to do.
+Any tips, warnings, or requests?``
 
-## Project Brainstorming
+``I'm XXX and I'm really interested in contributing to CryptoCat. I noticed that "adding tests" was mentioned on the issue tracker, so I'd like to start by working on testing. I have a few questions:
+1. I don't see very many tests in the test/ folder. Is there another place where I ought to be looking?
+2. Can you confirm that you're using Jasmine for testing? (It looks like you may be, but this isn't documented anywhere so I'm not sure if my guess is right.) Or are you using another test framework?
+3. Are there certain parts of the codebase that particularly need test coverage?
+I've also filed <<BUG #XYZ>>, "CryptoCat icon isn't showing up on desktop notifications", which I would be happy to start working on if someone could get me started. I'm <<NICKNAME>> on IRC and will try to hang out there as much as I can. I'm new to open source contribution and would appreciate it greatly if someone could help me get started on my first patch/test.``
+
+### Workshop
+
+#### Project Brainstorming
 * Start researching projects you might contribute to!
 * With your group, share which project and why.
 
-## Come up with a question.
+#### Come up with a question.
 * Find a pretext to get the conversation started, and draft a question
 * When you are done drafting your question, share it with the group
