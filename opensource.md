@@ -65,9 +65,27 @@
 
 ##### Sample Email #1
 ```
-Hi there, I'm XXX and really excited about ClojureScript. (I couldn't find a separate discussion forum for ClojureScript, so I'm sending this here, but please let me know if there's a better place to ask this question.) I'd like to get started contributing, am taking a look through the open Issues on Jira and found one that I'd like to work on:
-1. CLJS-150 Regular Expressions don't support Javascript mode flags. The last comment is Feb. 2012 but this still seems to be open. David's comment on Jira makes it sound like this bug might be a "wontfix," but I am not sure. Could someone please clarify whether this is still an open ticket? (Also, is this a very complex problem? If there's a better bug for me to get started on I'm willing to do that instead.)
-I'm <<NICK>> on IRC and will try to hang out in #clojure as much as I can. Thanks for any help you can give!
+Hi there, I'm XXX and really excited about ClojureScript.
+(I couldn't find a separate discussion forum for
+ClojureScript, so I'm sending this here, but please
+let me know if there's a better place to ask this 
+question.)
+
+I'd like to get started contributing, am taking a look
+through the open Issues on Jira and found one that I'd
+like to work on:
+
+1. CLJS-150 Regular Expressions don't support Javascript
+mode flags. The last comment is Feb. 2012 but this still
+seems to be open. David's comment on Jira makes it sound
+like this bug might be a "wontfix," but I am not sure.
+Could someone please clarify whether this is still an
+open ticket? (Also, is this a very complex problem? If
+there's a better bug for me to get started on I'm
+willing to do that instead.)
+
+I'm <<NICK>> on IRC and will try to hang out in #clojure
+as much as I can. Thanks for any help you can give!
 ```
 
 ##### Sample Email #2
