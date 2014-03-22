@@ -39,14 +39,11 @@
 * Wiki: Like a marsh. Requires the least effort, but often outdated or convoluted.
  * Example: [Parsoid](www.mediawiki.org/wiki/Parsoid)
 * Bug / issue tracker
- * "Closed": don't work on it because the issue has been fixed or dismissed.
- * "New" or "unconfirmed": be wary, it means no one has yet reproduced the problem, and/or no maintainer has looked at it and decided the issue is worth addressing.
- *"Accepted": the best! It means an issue has been accepted as needing fixing, but it hasn't been addressed yet.
- * "In Progress": Also good. See if you can help, or perhaps said progress has stalled and you can pick it up.
+ * "Status" is important! "Closed", "New" or "Unconfirmed", "Accepted", "In Progress".
  * Example: [GNOME](https://bugzilla.gnome.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&product=Gnumeric&query_format=advanced&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&query_based_on=)
  * Example: [OpenHatch](http://openhatch.org/bugs/)
 * Mailing list: Like a river.
- * 
+ * Not just for announcements! Used by both developers and users to report bugs, request features, talk about technical issues, etc.
  * Example: [Ubuntu] (https://lists.ubuntu.com/)
 * IRC: Like a waterfall!
  * Hardest to adapt to; kind of like being at a party where you don't know anyone
