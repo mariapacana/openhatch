@@ -1,5 +1,5 @@
 # who am i?
-  ## wanted to get involved in 
+* wanted to get involved in 
   		
 
 # what is gnome OPW
