@@ -62,16 +62,35 @@
  * Is there a way I can publicly respond to this person? (not bottlenecking)
 
 ```
-Hi there! As a learning project, I'm interested in creating or improving a Bicho backend to integrate with an open source bugtracker; Trac seems a likely candidate. I plan on diving into the Bicho source code (including existing backends) and the Trac API today to start looking at what to do. Any tips, warnings, or requests?
+Hi there! As a learning project, I'm interested in creating
+or improving a Bicho backend to integrate with an open source
+bugtracker; Trac seems a likely candidate. I plan on diving
+into the Bicho source code (including existing backends)
+and the Trac API today to start looking at what to do. 
+Any tips, warnings, or requests?
 
-I'm XXX and I'm really interested in contributing to CryptoCat. I noticed  that "adding tests" was mentioned on the issue tracker, so I'd like to start by working on testing. I have a few questions:
-1. I don't see very many tests in the test/ folder. Is there another place where I ought to be looking?
-2. Can you confirm that you're using Jasmine for testing? (It looks like you may be, but this isn't documented anywhere so I'm not sure if my guess is right.) Or are you using another test framework?
-3. Are there certain parts of the codebase that particularly need test coverage?
+I'm XXX and I'm really interested in contributing to
+CryptoCat. I noticed  that "adding tests" was mentioned
+on the issue tracker, so I'd like to start by working on
+ testing. I have a few questions:
+1. I don't see very many tests in the test/ folder.
+Is there another place where I ought to be looking?
+2. Can you confirm that you're using Jasmine for testing?
+(It looks like you may be, but this isn't documented 
+anywhere so I'm not sure if my guess is right.) Or are
+you using another test framework?
+3. Are there certain parts of the codebase that
+particularly need test coverage?
 
-I've also filed <<BUG #XYZ>>, "CryptoCat icon isn't showing up on desktop notifications", which I would be happy to start working on if someone could get me started. I'm <<NICKNAME>> on IRC and will try to hang out there as much as I can. 
+I've also filed <<BUG #XYZ>>, "CryptoCat icon isn't 
+showing up on desktop notifications", which I would
+be happy to start working on if someone could get me
+started. I'm <<NICKNAME>> on IRC and will try to hang
+out there as much as I can. 
 
-I'm new to open source contribution and would appreciate it greatly if someone could help me get started on my first patch/test.
+I'm new to open source contribution and would appreciate
+it greatly if someone could help me get started on my
+first patch/test.
 ```
 
 ### Workshop
